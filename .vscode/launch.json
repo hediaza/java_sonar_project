@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "com.acme.basic.HelloWorld",
+            "projectName": "sonarscanner-maven-basic"
+        }
+    ]
+}
