@@ -15,11 +15,6 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.compiler.release>11</maven.compiler.release>
 
-		<sonar.projectKey>PK20191114</sonar.projectKey>
-		<sonar.organization>hediaza-github</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>df9a631e0c560c9de2ce7d0b886f0473ae6ba6ec</sonar.login>
-		<sonar.projectName>Java Sonar Project</sonar.projectName>
 	</properties>
 
 	<dependencies>
